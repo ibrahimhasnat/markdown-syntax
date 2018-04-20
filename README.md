@@ -1,4 +1,5 @@
-(https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png)
+![Markdown logo](https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png)
+
 # Markdown Syntax
 
 ## For Heading 
