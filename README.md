@@ -39,6 +39,6 @@
 \[Google\]\(https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png, 'Google'\)
 
 ## For Showing code snippet
-```
+\```
 print('Hello World!') 
-```
+\```
