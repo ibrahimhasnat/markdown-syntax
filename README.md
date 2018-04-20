@@ -20,7 +20,7 @@
 \___  or  \---
 
 ## For Quote
-\> Quote Text
+> Quote Text
 
 ## For List
 ### Order List
@@ -39,4 +39,4 @@
 \[Google\]\(https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png, 'Google'\)
 
 ## For Showing code snippet
-\''' print('Hello World!') \'''
+''' print('Hello World!') '''
