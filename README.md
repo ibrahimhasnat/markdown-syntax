@@ -24,7 +24,7 @@
 
 ## For List
 ### Order List
-* List 1 <br />
+\* List 1 <br />
 \* List 2<br />
 \* List 3 <br />
 ### Unorder List
