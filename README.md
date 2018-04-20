@@ -28,9 +28,9 @@
 \* List 2<br />
 \* List 3 <br />
 ### Unorder List
-\1. List 1 <br />
-\2. List 2 <br />
-\3. List 3 <br />
+1. List 1 <br />
+2. List 2 <br />
+3. List 3 <br />
 
 ## For Showing Image
 \!\[Markdown logo\]\(https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png\)
