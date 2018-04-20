@@ -34,5 +34,11 @@
 \2. List 2 <br />
 \3. List 3 <br />
 
+## For Showing Image
+\![Markdown logo](https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png)
+
+## Link
+\[Google\]\(https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png, 'Google'\)
+
 ## For Showing code snippet
 \''' print('Hello World!') \'''
