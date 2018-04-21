@@ -56,5 +56,5 @@ def greet(): <br />
 \```
 
 # For Task List
-\* [ ] Task One
+\* [ ] Task One <br />
 \* [x] Task Two
