@@ -44,3 +44,9 @@ print('Hello World!')
 \```
 
 # Github Flavored Markdown
+
+## For Highlight Syntax  
+```python
+def greet():
+  print('Hello World!')
+```
