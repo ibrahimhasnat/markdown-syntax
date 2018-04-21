@@ -50,3 +50,7 @@ print('Hello World!')
 def greet(): <br />
   print('Hello World!')<br />
 \```
+
+\```bash <br />
+  yarn install<br />
+\```
